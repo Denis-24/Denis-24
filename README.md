@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24826532/README.md)
 <!-- Banner superior -->
 <h1 align="center">👋 ¡Hola! Soy <strong>Estudiante de 1º DAM</strong></h1>
 <h3 align="center">📍 IES MUTXAMEL | 💻 Desarrollador en formación</h3>
