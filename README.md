@@ -1,74 +1,53 @@
-<!-- Banner superior -->
-<h1 align="center">👋 ¡Hola! Soy <strong>Estudiante de 1º DAM</strong></h1>
-<h3 align="center">📍 IES MUTXAMEL | 💻 Desarrollador en formación</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C0FF&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+perfil+de+GitHub;Aprendiendo..." />
+# Hola, soy Denis 👋
+
+Estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en el IES Mutxamel.
+Hago aplicaciones y webs que la gente usa de verdad: las diseño, las programo, las publico y las mantengo.
+
+🌐 **[denisrico.com](https://denisrico.com)** · ✉️ **[denis@denisrico.com](mailto:denis@denisrico.com)**
+
+---
+
+## 🚀 Proyectos
+
+| Proyecto | Qué es | Tecnología |
+|---|---|---|
+| **[AulaNova](https://aulanova.denisrico.com)** | Organizador académico para estudiantes: horario, tareas y exámenes, sincronizado con Aules y UACloud. En uso por alumnos reales. | Next.js · TypeScript · Supabase |
+| **[BeautyBook](https://beautybook-mutxamel.vercel.app)** | Reservas para el ciclo de Estética del IES Mutxamel, con roles de administradora, alumnas y clientas. | Next.js · Supabase · Zod |
+| **Infra denisrico** | Mi propio servidor: túnel de Cloudflare, paneles privados, monitorización y copias cifradas cada noche. | Linux · Docker · Cloudflare |
+| **[Web para Maria Ferri](https://maria-ferri.vercel.app)** | Web hecha para Maria Ferri. | Next.js · TypeScript |
+| **[Roomie](https://github.com/Denis-24/Roomie_web)** | Buscador de habitaciones y compañeros de piso, con su [API en Node.js](https://github.com/Denis-24/Web_Proyecto). | JavaScript · Express |
+
+Los ejercicios de clase de 1º están archivados en mis repositorios.
+
+---
+
+## 🛠️ Tecnologías
+
+**Web y apps**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java" />
 </p>
 
----
-
-## 🚀 Tecnologías que manejo
-
-### 🟨 Lenguajes y desarrollo
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+**Datos**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase" title="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL" />
 </p>
 
-### 🗄️ Bases de datos
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-</p>
-
----
-
-## 📚 Sobre mí
-- 🎓 Estudiante de **1º DAM** en IES MUTXAMEL
-- 💡 Me encanta aprender tecnologías nuevas
-- 🛠️ Practico creando proyectos pequeños y útiles
-- 🚀 Motivado por mejorar cada día
-
----
-
-## 📈 Objetivo
-Seguir creciendo como desarrollador y construir proyectos cada vez más completos y profesionales.
-
----
-
-## 💼 Experiencia Laboral
-
-### 🧩 Experiencia previa
-Aunque actualmente estoy centrado en mis estudios de **1º DAM**, he tenido algunas experiencias y actividades que me han ayudado a desarrollar habilidades útiles:
-
-- 👨‍💻 **Proyectos personales de programación**  
-  Desarrollo de pequeñas aplicaciones y ejercicios en Java, HTML, CSS y JavaScript.
-
-- 🛠️ **Prácticas y trabajos académicos**  
-  Resolución de ejercicios, creación de bases de datos SQL y desarrollo de interfaces web básicas.
-
-- 🤝 **Trabajo en equipo en el entorno educativo**  
-  Participación en proyectos colaborativos dentro del ciclo formativo.
-
----
-
-### 📌 (Opcional) Si tienes experiencia real, puedes añadirla así:
-
-#### 👔 Nombre del puesto — Empresa
-📅 *Fecha de inicio – Fecha de fin*  
-📍 *Ciudad / Remoto*  
-**Responsabilidades:**
-- Tarea destacada 1
-- Tarea destacada 2
-- Tarea destacada 3
-
----
-
-## 🔗 Conecta conmigo
-<p align="left">
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-<a href="https://www.linkedin.com/in/TU_PERFIL/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+**Servidores y despliegue**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel" title="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
 </p>
