@@ -18,7 +18,6 @@ tiene un asistente con IA y se sincroniza sola con Aules desde mi servidor.
 | **[AulaNova](https://aulanova.denisrico.com)** | Organizador académico para estudiantes: horario, tareas y exámenes, sincronizado con Aules y UACloud. En uso por alumnos reales. | Next.js · TypeScript · Supabase |
 | **[BeautyBook](https://beautybook-mutxamel.vercel.app)** | Reservas para el ciclo de Estética del IES Mutxamel, con roles de administradora, alumnas y clientas. | Next.js · Supabase · Zod |
 | **Infra denisrico** | Mi propio servidor: túnel de Cloudflare, paneles privados, monitorización y copias cifradas cada noche. | Linux · Docker · Cloudflare |
-| **[Web para Maria Ferri](https://maria-ferri.vercel.app)** | Web hecha para Maria Ferri. | Next.js · TypeScript |
 | **[Roomie](https://github.com/Denis-24/Roomie_web)** | Buscador de habitaciones y compañeros de piso, con su [API en Node.js](https://github.com/Denis-24/Web_Proyecto). | JavaScript · Express |
 
 Los ejercicios de clase de 1º están archivados en mis repositorios.
