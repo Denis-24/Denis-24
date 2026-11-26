@@ -1,7 +1,8 @@
 # Hola, soy Denis 👋
 
-Estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en el IES Mutxamel.
-Hago aplicaciones y webs que la gente usa de verdad: las diseño, las programo, las publico y las mantengo.
+Estudio **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en el IES Mutxamel.
+En 1º empecé con ejercicios en Java; ahora mantengo proyectos con usuarios reales y administro mi propio servidor.
+Lo que más disfruto es llevar una idea de principio a fin: del primer boceto a tenerla funcionando en internet.
 
 🌐 **[denisrico.com](https://denisrico.com)** · ✉️ **[denis@denisrico.com](mailto:denis@denisrico.com)**
 
