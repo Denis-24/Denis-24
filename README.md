@@ -4,6 +4,9 @@ Estudio **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en el IES Mu
 En 1º empecé con ejercicios en Java; ahora mantengo proyectos con usuarios reales y administro mi propio servidor.
 Lo que más disfruto es llevar una idea de principio a fin: del primer boceto a tenerla funcionando en internet.
 
+Ahora mismo me interesan sobre todo la **inteligencia artificial** y las **automatizaciones**: AulaNova ya rellena el horario a partir de una foto,
+tiene un asistente con IA y se sincroniza sola con Aules desde mi servidor.
+
 🌐 **[denisrico.com](https://denisrico.com)** · ✉️ **[denis@denisrico.com](mailto:denis@denisrico.com)**
 
 ---
